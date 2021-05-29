@@ -63,6 +63,6 @@ def send_df_to_dashboard(df):
   # extrae las cuentas del marco de data y conviértelos en una matriz
   tags_count = [p.hashtag_count for p in df.select("hashtag_count").collect()]
   # inicia y envía la data a través de la API REST
-  url = 'http://localhost:5001/updateData'
+  url = 'http://localhost:5000/updateData'
   request_data = {'label': str(top_tags), 'data': str(tags_count)}
   response = requests.post(url, data=request_data)
