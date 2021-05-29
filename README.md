@@ -1,6 +1,6 @@
-Universidad Sergio Arboleda
-Ingeniería de Sistemas 
-#Lohanna Aguirre
-lohanna.aguirre@correo.usa.edu.co
-Big Data e Ingenieria de Datos
-Parcial Final
+# Lohanna Aguirre
+# lohanna.aguirre@correo.usa.edu.co
+# Universidad Sergio Arboleda
+# Ingeniería de Sistemas 
+# Big Data e Ingenieria de Datos
+# Parcial Final
