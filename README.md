@@ -11,10 +11,6 @@ cd ..
 cd ..
 cd /var/www/html
 sudo nano parcial3.html 
-```
-Linea 61 
-
-```
 axios.get('http://nuevadireccionEC2:5000/dashboard').then(function(response){
 cd 
 ```
