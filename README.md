@@ -4,6 +4,12 @@ Crear una aplicación que permita procesar y visualizar (Dashboard) el número t
 
 
 ## Ejecución
+
+### 0.5 Activar el entorno virtual
+```
+ source env/bin/activate
+```
+
 ### 1. Se debe ejecutar el archivo server.py
 ```
 python server.py
