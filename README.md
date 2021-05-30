@@ -7,14 +7,15 @@ Crear una aplicación que permita procesar y visualizar (Dashboard) el número t
 
 ### 1.Se debe cambiar la dirección del ec2 en el html
 ```
-cd.. 
-cd..
-cd /var/www/html$
+cd .. 
+cd ..
+cd /var/www/html
 sudo nano parcial3.html 
+cd 
 ```
 ### 2. Activar el entorno virtual
 ```
- source env/bin/activate
+source env/bin/activate
 ```
 
 ### 3. Se debe ejecutar el archivo server.py
