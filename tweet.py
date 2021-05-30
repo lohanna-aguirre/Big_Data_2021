@@ -7,7 +7,7 @@ hashtags=['#nomnom','#foodie','#healthylifestyle','#fresh','#madewithlove','#hom
 #API y Token de twitter
 apikey="iHlaa81fmyMhmAo5dZ9nImRjk"
 apisecret="tPH4VdTGNsdVdClU0rja8V9AZlCdEM16oWLII70rhKYaBYCY1y"
-access_token="794329197657329664-Pvvjk2n4dJtQsKoKgbLkvaPLgUvJY7J
+access_token="794329197657329664-Pvvjk2n4dJtQsKoKgbLkvaPLgUvJY7J"
 access_token_secret="v5VtTr8rSmKvDO9ln6Z4JvvHcQmSgNKwualcU3G7qJfbD"
 
 #Socket
