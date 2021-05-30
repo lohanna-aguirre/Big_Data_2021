@@ -5,21 +5,28 @@ Crear una aplicación que permita procesar y visualizar (Dashboard) el número t
 
 ## Ejecución
 
-### 0.5 Activar el entorno virtual
+### 1.Se debe cambiar la dirección del ec2 en el html
+```
+cd.. 
+cd..
+cd /var/www/html$
+sudo nano parcial3.html 
+```
+### 2. Activar el entorno virtual
 ```
  source env/bin/activate
 ```
 
-### 1. Se debe ejecutar el archivo server.py
+### 3. Se debe ejecutar el archivo server.py
 ```
 python server.py
 ```
-### 2. Se ejecuta el tweet.py
+### 4. Se ejecuta el tweet.py
 ```
 python tweet.py
 ```
 
-### 2. Se ejecuta el process.py
+### 5. Se ejecuta el process.py
 ```
 spark-submit  process.py localhost 9898
 ```
